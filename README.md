@@ -1,4 +1,4 @@
-xiu'gai# 🤖 DeepCode
+# 🤖 DeepCode
 
 > AI 驱动的桌面编程助手 — 类 Codex CLI 体验，直接操作你的本地项目文件。
 
